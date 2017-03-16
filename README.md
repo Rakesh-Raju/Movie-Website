@@ -14,7 +14,7 @@ entertainment_center.py - A class that initializes a set of movie objects, puts 
 
 Usage:
 
-Simply run entertainment_center.py, making sure that media.py and fresh_tomatoes.py are in the same directory.
+Simply run entertainment_center.py in a python IDE, making sure that media.py and fresh_tomatoes.py are in the same directory.
 
 To modify how many movies there are, simply create more movie objects in entertainment.py (following the required parameters in media.py for a movie object)
 and update movielist.
